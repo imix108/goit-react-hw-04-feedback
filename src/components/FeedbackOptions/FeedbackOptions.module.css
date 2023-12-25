@@ -1,0 +1,15 @@
+.feedbackContainer {
+    width: 520px;
+    margin: 20px;
+    display: flex;
+    gap: 30px;
+}
+.feedbackButton {
+     margin: 5px;
+  padding: 8px 12px;
+  color: black;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
